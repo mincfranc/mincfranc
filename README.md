@@ -8,9 +8,9 @@
 
  ## Current projects
 
- * [Hello World: Java console application](git@github.com:ddc-java-20/hello-world-mincfranc.git)
+ * [Hello World: Java console application](https://github.com/ddc-java-20/hello-world-mincfranc)
       
- * [Hello World: Android app](git@github.com:ddc-java-20/android-hello-world-mincfranc.git)
+ * Hello World: Android app
 
  ## Links
 
